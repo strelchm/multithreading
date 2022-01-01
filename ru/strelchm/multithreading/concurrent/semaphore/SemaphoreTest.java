@@ -1,4 +1,4 @@
-package ru.strelchm.multithreading;//package ;
+package ru.strelchm.multithreading.concurrent.semaphore;//package ;
 
 import java.util.concurrent.Semaphore;
 
